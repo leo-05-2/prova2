@@ -3,4 +3,4 @@ project(prova2)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(prova2 main.cpp test.h)
+add_executable(prova2 main.cpp test.h test.cpp)
